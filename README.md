@@ -9,7 +9,7 @@
 
 ### What is a Chief of Staff doing on GitHub?
 
-Fair question. My colleagues ship scikit-learn. I ship spreadsheets, board decks and the occasional YAML file I don't fully understand.
+Fair question. My colleagues ship scikit-learn and Skore. I ship spreadsheets, board decks and the occasional YAML file I don't fully understand.
 
 ```python
 from sklearn.linear_model import LinearRegression
